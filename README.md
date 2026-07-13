@@ -4,7 +4,7 @@ A data analytics project that analyzes employee attrition using Python and Table
 
 ## Dashboard Preview
 
-! [HR Employee Attrition Dashboard](dashboard.png)
+![HR Employee Attrition Dashboard](dashboard.png)
 
 ## Project Overview
 
