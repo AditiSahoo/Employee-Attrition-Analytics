@@ -25,6 +25,10 @@ Employee-Attrition-Analytics/
 ├── WA_Fn-UseC_-HR-Employee-Attrition.csv
 ├── dashboard.png
 
-## Project Overview
+Key Insights
 
-Employee attrition is a major challenge...
+- Employees working overtime showed significantly higher attrition than those who did not.
+- Sales Representatives experienced the highest employee attrition among all job roles.
+- Employees aged 18–25 had the highest likelihood of leaving the organization.
+- Lower monthly income was associated with higher employee attrition.
+- Employees with job satisfaction level 4 also showed notable attrition, indicating that job satisfaction alone does not determine employee retention.
