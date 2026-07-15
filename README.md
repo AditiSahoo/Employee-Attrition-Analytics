@@ -32,3 +32,11 @@ Key Insights
 - Employees aged 18–25 had the highest likelihood of leaving the organization.
 - Lower monthly income was associated with higher employee attrition.
 - Employees with job satisfaction level 4 also showed notable attrition, indicating that job satisfaction alone does not determine employee retention.
+
+Business Recommendations
+
+- Reduce excessive overtime by improving workload distribution and promoting work-life balance initiatives.
+- Develop targeted retention programs for younger employees and high-risk job roles.
+- Review compensation and career growth opportunities for employees with lower monthly income.
+- Conduct regular employee feedback sessions to identify concerns before employees decide to leave.
+- Use predictive analytics to identify employees at high risk of attrition and take proactive retention measures.
