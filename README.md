@@ -3,6 +3,11 @@
 An end-to-end HR analytics project that analyzes employee attrition using Python and Tableau to identify workforce trends, uncover factors associated with employee turnover, and provide data-driven recommendations for improving employee retention.
 
 
+## Interactive Dashboard
+
+🔗 **Tableau Public Dashboard:**
+https://public.tableau.com/views/Employee_Attrition_Analysis_Dashboard2/EmployeeAttritionDashboard
+
 ## Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
