@@ -1,12 +1,24 @@
 # HR Employee Attrition Analytics
 
-A data analytics project that analyzes employee attrition using Python and Tableau to identify key factors influencing employee turnover and provide data-driven recommendations for improving employee retention.
+An end-to-end HR analytics project that analyzes employee attrition using Python and Tableau to identify workforce trends, uncover factors associated with employee turnover, and provide data-driven recommendations for improving employee retention.
+
 
 ## Dashboard Preview
 
-![HR Employee Attrition Dashboard](dashboard.png)
+![Employee Attrition Dashboard](dashboard.png)
 
-## Technologies Used
+
+## About the Project
+
+Employee attrition increases recruitment costs, disrupts productivity, and results in the loss of experienced employees. This project analyzes HR employee data to identify the factors associated with employee turnover and provides business insights through exploratory data analysis and an interactive Tableau dashboard.
+
+
+## Business Problem
+
+The HR department wants to understand why employees leave the organization and identify high-risk employee groups. The objective is to support HR decision-making through data-driven analysis and actionable recommendations.
+
+
+## Tech Stack
 
 - Python
 - Pandas
@@ -15,28 +27,65 @@ A data analytics project that analyzes employee attrition using Python and Table
 - Seaborn
 - Tableau
 - Jupyter Notebook
+- Git & GitHub
 
-## Project Structure
 
+## Dashboard Features
+
+- KPI Cards
+- Department-wise Attrition Analysis
+- Job Role Analysis
+- Job Satisfaction Analysis
+- Work-Life Balance Analysis
+- Age Group Analysis
+- Interactive Filters
+
+
+## Key Findings
+
+- Overall employee attrition rate is **16.12%**.
+- Sales department recorded the highest attrition rate (**20.63%**).
+- Sales Representatives experienced the highest attrition among all job roles.
+- Employees working overtime showed significantly higher attrition.
+- Lower job satisfaction and poor work-life balance were associated with higher employee turnover.
+- Employees with lower monthly income were more likely to leave the organization.
+
+
+## Business Recommendations
+
+- Reduce excessive overtime through better workload planning.
+- Strengthen employee engagement and satisfaction initiatives.
+- Review compensation strategies for high-risk employee groups.
+- Improve career development and retention programs for early-career employees.
+- Continuously monitor employee attrition using HR analytics dashboards.
+
+
+## Repository Structure
+
+```text
 Employee-Attrition-Analytics/
 │
 ├── README.md
-├── Employee_Attrition_Analysis.ipynb
+├── HR_Employee_Attrition_Analysis.ipynb
 ├── WA_Fn-UseC_-HR-Employee-Attrition.csv
-├── dashboard.png
+├── Employee_Attrition_Dashboard.twbx
+├── Project_Report.pdf
+└── dashboard.png
+```
 
-Key Insights
 
-- Employees working overtime showed significantly higher attrition than those who did not.
-- Sales Representatives experienced the highest employee attrition among all job roles.
-- Employees aged 18–25 had the highest likelihood of leaving the organization.
-- Lower monthly income was associated with higher employee attrition.
-- Employees with job satisfaction level 4 also showed notable attrition, indicating that job satisfaction alone does not determine employee retention.
+## How to Run
 
-Business Recommendations
+1. Clone the repository.
+2. Open the Jupyter Notebook.
+3. Install the required Python libraries.
+4. Run the notebook cells.
+5. Open the Tableau workbook to explore the interactive dashboard.
 
-- Reduce excessive overtime by improving workload distribution and promoting work-life balance initiatives.
-- Develop targeted retention programs for younger employees and high-risk job roles.
-- Review compensation and career growth opportunities for employees with lower monthly income.
-- Conduct regular employee feedback sessions to identify concerns before employees decide to leave.
-- Use predictive analytics to identify employees at high risk of attrition and take proactive retention measures.
+
+## Future Improvements
+
+- Build a machine learning model to predict employee attrition.
+- Deploy the solution as a web application.
+- Integrate real-time HR data.
+- Develop predictive HR analytics dashboards.
