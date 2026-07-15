@@ -60,16 +60,14 @@ The HR department wants to understand why employees leave the organization and i
 - Continuously monitor employee attrition using HR analytics dashboards.
 
 
-## Repository Structure
+##vRepository Structure
 
 ```text
 Employee-Attrition-Analytics/
 │
 ├── README.md
-├── HR_Employee_Attrition_Analysis.ipynb
+├── HR_Analytics.ipynb
 ├── WA_Fn-UseC_-HR-Employee-Attrition.csv
-├── Employee_Attrition_Dashboard.twbx
-├── Project_Report.pdf
 └── dashboard.png
 ```
 
