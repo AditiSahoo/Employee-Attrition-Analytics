@@ -1,5 +1,10 @@
 # HR Employee Attrition Analytics
 
+<p align="center">
+  <img src="banner.png" alt="Employee Attrition Analytics Dashboard Banner" width="100%">
+</p>
+
+
 An end-to-end HR analytics project that analyzes employee attrition using Python and Tableau to identify workforce trends, uncover factors associated with employee turnover, and provide data-driven recommendations for improving employee retention.
 
 
